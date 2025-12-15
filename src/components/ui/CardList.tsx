@@ -4,7 +4,6 @@ import {
   CardTitle,
   CardDescription,
   CardContent,
-  CardFooter,
 } from "../ui/card"
 
 export default function CardList() {
@@ -43,8 +42,8 @@ export default function CardList() {
           <CardContent>
             <CardDescription>{card.desc}</CardDescription>
           </CardContent>
-          <CardFooter>Created by [Rinkal Donga]</CardFooter>
         </Card>
+        
       ))}
     </div>
   )
