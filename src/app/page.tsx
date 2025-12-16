@@ -10,7 +10,7 @@ export default function HomePage() {
         md:bg-red-300
         lg:bg-green-300
         xl:bg-gray-300
-        2xl:bg-purple-300
+        2xl:bg-yellow-300
       "
     >
       <nav className="mb-6 bg-blue-200 p-4">
